@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Cloud Infrastructure Automation & Operations**
 
-- 👯 I’m looking to collaborate on **Cloud & DevOps Projects Infrastructure as Code (Terraform) CI/CD automation Cloud reliability & SRE practices**
+- 👯 I’m looking to collaborate on **Cloud & DevOps Projects: Infrastructure as Code (Terraform) - CI/CD automation - Cloud reliability & SRE practices**
 
 - 📄 Know about my experiences [https://salmamahfouz.github.io/salma-my-website/index.html](https://salmamahfouz.github.io/salma-my-website/index.html)
 
